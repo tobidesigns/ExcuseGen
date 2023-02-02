@@ -1,1 +1,6 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+#center {
+  margin: auto;
+  width: 50%;
+  padding-top: 250px;
+  height: 50%;
+}
